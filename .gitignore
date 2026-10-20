@@ -1,0 +1,8 @@
+target/
+dist/
+fuzz-out/
+corpus/
+plan/
+craft-fonts/
+*.DS_Store
+*~

@@ -1,0 +1,9 @@
+.git
+target
+dist
+fuzz-out
+corpus
+plan
+*.md
+!README.md
+!ROADMAP.md
